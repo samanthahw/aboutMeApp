@@ -70,6 +70,14 @@ struct ContentView: View {
                     //  .frame(height: 200.0)
                     
                 }
+                
+                HStack{
+                    Text("🙂‍↕️")
+                }
+                
+                
+                
+                
                 .padding(/*@START_MENU_TOKEN@*/.all/*@END_MENU_TOKEN@*/)
             }
             .background(Image("textureWallpaper"))
